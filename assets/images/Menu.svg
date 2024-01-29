@@ -1,0 +1,23 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Menu">
+<g id="Rectangle 105" filter="url(#filter0_d_2_394)">
+<path d="M42.3684 10H27.6316C20.6554 10 15 15.6554 15 22.6316V37.3684C15 44.3447 20.6554 50 27.6316 50H42.3684C49.3447 50 55 44.3447 55 37.3684V22.6316C55 15.6554 49.3447 10 42.3684 10Z" fill="white"/>
+</g>
+<g id="Group 17302">
+<path id="Line 59" d="M29 37H37" stroke="#111719" stroke-width="2" stroke-linecap="round"/>
+<path id="Line 58" d="M29 31H41" stroke="#111719" stroke-width="2" stroke-linecap="round"/>
+<path id="Line 60" d="M29 24H34" stroke="#111719" stroke-width="2" stroke-linecap="round"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_2_394" x="0" y="0" width="80" height="80" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dx="5" dy="10"/>
+<feGaussianBlur stdDeviation="10"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.827451 0 0 0 0 0.819608 0 0 0 0 0.847059 0 0 0 0.3 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_2_394"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_2_394" result="shape"/>
+</filter>
+</defs>
+</svg>
